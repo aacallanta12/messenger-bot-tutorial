@@ -1,16 +1,28 @@
 {
-  "name": "secretbots",
+  "name": "arielc",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Alt text](/demo/Demo.gif)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "arielc",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "request": "^2.81.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacallanta12/messenger-bot-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aacallanta12/messenger-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/aacallanta12/messenger-bot-tutorial#readme",
+  "keywords": [
+    "bot"
+  ]
 }
